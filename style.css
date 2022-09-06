@@ -1,0 +1,58 @@
+.rew{
+
+border: ridge;
+border-width: 55px;
+border-color: red;
+display: flex;
+justify-content: space-between;
+background-color: aqua;
+}
+
+.li{
+border: double;
+border-width: 10px;
+border-color:burlywood;
+background-color:yellow ;
+}
+
+.li2{
+background-color: blueviolet;
+    border: double;
+    border-width: 11px;
+    border-color: blue;
+}
+
+.nas1{
+border: dotted;
+border-width: 3px;
+border-color: aqua;
+background-color: blue;
+color: brown;
+}
+
+.nas2{
+    border: dotted;
+    border-width: 3px;
+    border-color: aqua;
+    background-color: blue;
+    color: brown;
+}
+
+body{
+    background-image: url(https://www.pexels.com/photo/ripe-green-and-red-fruit-pear-on-white-surface-under-palm-branch-5945907/);
+    background-color: blueviolet;
+}
+
+.nas4:hover{
+text-align: center;
+color: black;
+background-color: red;
+
+} 
+
+.nas5{
+    color: blue;
+    border: solid;
+    border-color: blueviolet;
+    background-color: brown;
+}
